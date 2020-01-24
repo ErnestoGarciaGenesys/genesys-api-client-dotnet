@@ -98,7 +98,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Genesys.ApiClient.Components\Genesys.ApiClient.Components\Genesys.ApiClient.Components.csproj">
+    <ProjectReference Include="..\Genesys.ApiClient.Components\Genesys.ApiClient.Components.csproj">
       <Project>{A8024E6D-20EC-4A36-84A0-C0E2798EBBD1}</Project>
       <Name>Genesys.ApiClient.Components</Name>
     </ProjectReference>
